@@ -1,0 +1,4 @@
+id,username,password,role
+1,sebastian,secret,manager
+2,ruben,secret, delivery_guy
+3,oleg, secret, master_of_masters
